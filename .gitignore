@@ -1,4 +1,5 @@
 # local data
+.jupyter
 data/
 results/
 
